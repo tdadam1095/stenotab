@@ -1,6 +1,6 @@
 {
   "vaultName": "StenoTab",
-  "lastExport": 1732419802911,
+  "lastExport": 1732428130394,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-ribbon",
   "useCustomHeadContent": false,
@@ -167,9 +167,6 @@
     "Steno Theory/Time Saver BPs.md",
     "Steno Theory/Times and Dates.md",
     "Steno Theory/Vowel Usage.md",
-    "StenoTab/FAQ.md",
-    "StenoTab/How to Use StenoTab.md",
-    "StenoTab/Resources.md",
     "The Business/00 The Business TOC.md",
     "The Business/01 Leadership.md",
     "The Business/02 Communication.md",
@@ -230,6 +227,7 @@
     "Writing Realtime/14 Broadcast Captioning.md",
     "Writing Realtime/15 Dictionary Building.md",
     "Writing Realtime/16 Realtime Applications.md",
+    "FAQ & Resources.md",
     "Index.md",
     "lib/media/criminal-off-classifs.svg",
     "lib/media/proc-escalation.svg",
@@ -257,11 +255,6 @@
     "lib/media/bones-upper.svg",
     "lib/media/bones-lower.svg",
     "lib/media/joint.svg",
-    "lib/media/single-characters.svg",
-    "lib/media/double-initial-characters.svg",
-    "lib/media/double-final-characters.svg",
-    "lib/media/punctuation.svg",
-    "lib/media/vowels-diphthongs.svg",
     "lib/media/device-connection-order.svg",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -284,7 +277,12 @@
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/styles/snippets.css",
+    "lib/media/single-characters.svg",
+    "lib/media/double-initial-characters.svg",
+    "lib/media/double-final-characters.svg",
+    "lib/media/punctuation.svg",
+    "lib/media/vowels-diphthongs.svg"
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -312,133 +310,133 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 91742,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 90471,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 312,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 85360,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
@@ -780,8 +778,8 @@
       "dependencies": []
     },
     "English/Fundamentals.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 3406,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 3421,
       "exportedPath": "english/fundamentals.html",
       "dependencies": []
     },
@@ -1014,8 +1012,8 @@
       "dependencies": []
     },
     "Judicial System/Citations.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 3282,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 3289,
       "exportedPath": "judicial-system/citations.html",
       "dependencies": []
     },
@@ -1026,8 +1024,8 @@
       "dependencies": []
     },
     "Judicial System/Commencing a Criminal Prosecution.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 2961,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 2953,
       "exportedPath": "judicial-system/commencing-a-criminal-prosecution.html",
       "dependencies": [
         "lib/media/criminal-off-classifs.svg",
@@ -1041,8 +1039,8 @@
       "dependencies": []
     },
     "Judicial System/Court System.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 5268,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 5279,
       "exportedPath": "judicial-system/court-system.html",
       "dependencies": [
         "lib/media/court-system.svg",
@@ -1074,8 +1072,8 @@
       "dependencies": []
     },
     "Judicial System/Guilty Plea and Sentencing Procedure.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 9317,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 9337,
       "exportedPath": "judicial-system/guilty-plea-and-sentencing-procedure.html",
       "dependencies": [
         "lib/media/guilty-plea.svg"
@@ -1088,28 +1086,28 @@
       "dependencies": []
     },
     "Judicial System/Judicial System TOC.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 773,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 774,
       "exportedPath": "judicial-system/judicial-system-toc.html",
       "dependencies": []
     },
     "Judicial System/Jury Selection.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 3692,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 3702,
       "exportedPath": "judicial-system/jury-selection.html",
       "dependencies": [
         "lib/media/challenge-cause.svg"
       ]
     },
     "Judicial System/Jury Trial Procedure.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 2290,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 2297,
       "exportedPath": "judicial-system/jury-trial-procedure.html",
       "dependencies": []
     },
     "Judicial System/Legal Terms.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 39783,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 39788,
       "exportedPath": "judicial-system/legal-terms.html",
       "dependencies": []
     },
@@ -1126,46 +1124,46 @@
       "dependencies": []
     },
     "Judicial System/Pleadings.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 4066,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 4084,
       "exportedPath": "judicial-system/pleadings.html",
       "dependencies": [
         "lib/media/civil-procedure.svg"
       ]
     },
     "Judicial System/Preliminary Inquiry Procedure.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 4710,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 4715,
       "exportedPath": "judicial-system/preliminary-inquiry-procedure.html",
       "dependencies": [
         "lib/media/prelim.svg"
       ]
     },
     "Judicial System/Presentation of Evidence.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1768,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1770,
       "exportedPath": "judicial-system/presentation-of-evidence.html",
       "dependencies": [
         "lib/media/pres-testimony.svg"
       ]
     },
     "Judicial System/Sources of Law.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 2618,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 2622,
       "exportedPath": "judicial-system/sources-of-law.html",
       "dependencies": []
     },
     "Judicial System/Trial Procedure.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1375,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1379,
       "exportedPath": "judicial-system/trial-procedure.html",
       "dependencies": [
         "lib/media/trial.svg"
       ]
     },
     "Judicial System/Types of Law.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1237,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1240,
       "exportedPath": "judicial-system/types-of-law.html",
       "dependencies": [
         "lib/media/law-categories.svg"
@@ -1184,14 +1182,14 @@
       "dependencies": []
     },
     "Medical Terminology/Basic Word Structure.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1841,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1835,
       "exportedPath": "medical-terminology/basic-word-structure.html",
       "dependencies": []
     },
     "Medical Terminology/Body Organization.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 3482,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 3481,
       "exportedPath": "medical-terminology/body-organization.html",
       "dependencies": [
         "lib/media/abdpel-quadrants.svg",
@@ -1203,13 +1201,13 @@
       ]
     },
     "Medical Terminology/Body Systems Overview.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1747,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1743,
       "exportedPath": "medical-terminology/body-systems-overview.html",
       "dependencies": []
     },
     "Medical Terminology/Cardiovascular System.md": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 3600,
       "exportedPath": "medical-terminology/cardiovascular-system.html",
       "dependencies": [
@@ -1218,58 +1216,58 @@
       ]
     },
     "Medical Terminology/Cheat Sheet.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 28,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 14,
       "exportedPath": "medical-terminology/cheat-sheet.html",
       "dependencies": []
     },
     "Medical Terminology/Medical Terminology TOC.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 397,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 391,
       "exportedPath": "medical-terminology/medical-terminology-toc.html",
       "dependencies": []
     },
     "Medical Terminology/Muscular System.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 2249,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 2244,
       "exportedPath": "medical-terminology/muscular-system.html",
       "dependencies": []
     },
     "Medical Terminology/Obstetrics.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 5748,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 5747,
       "exportedPath": "medical-terminology/obstetrics.html",
       "dependencies": [
         "lib/media/pregnancy.svg"
       ]
     },
     "Medical Terminology/Prefixes.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 6097,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 6084,
       "exportedPath": "medical-terminology/prefixes.html",
       "dependencies": []
     },
     "Medical Terminology/Prefixes - Shorthand Outlines.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 401,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 393,
       "exportedPath": "medical-terminology/prefixes-shorthand-outlines.html",
       "dependencies": []
     },
     "Medical Terminology/Roots.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 4244,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 4231,
       "exportedPath": "medical-terminology/roots.html",
       "dependencies": []
     },
     "Medical Terminology/Roots - Shorthand Outlines.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 5384,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 5385,
       "exportedPath": "medical-terminology/roots-shorthand-outlines.html",
       "dependencies": []
     },
     "Medical Terminology/Skeletal System.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 3967,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 3970,
       "exportedPath": "medical-terminology/skeletal-system.html",
       "dependencies": [
         "lib/media/skeleton.svg",
@@ -1281,14 +1279,14 @@
       ]
     },
     "Medical Terminology/Suffixes.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 5553,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 5540,
       "exportedPath": "medical-terminology/suffixes.html",
       "dependencies": []
     },
     "Medical Terminology/Suffixes - Shorthand Outlines.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 514,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 507,
       "exportedPath": "medical-terminology/suffixes-shorthand-outlines.html",
       "dependencies": []
     },
@@ -1456,39 +1454,21 @@
         "lib/media/vowels-diphthongs.svg"
       ]
     },
-    "StenoTab/FAQ.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 8955,
-      "exportedPath": "stenotab/faq.html",
-      "dependencies": []
-    },
-    "StenoTab/How to Use StenoTab.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1148,
-      "exportedPath": "stenotab/how-to-use-stenotab.html",
-      "dependencies": []
-    },
-    "StenoTab/Resources.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1697,
-      "exportedPath": "stenotab/resources.html",
-      "dependencies": []
-    },
     "The Business/00 The Business TOC.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 789,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 790,
       "exportedPath": "the-business/00-the-business-toc.html",
       "dependencies": []
     },
     "The Business/01 Leadership.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1709,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1712,
       "exportedPath": "the-business/01-leadership.html",
       "dependencies": []
     },
     "The Business/02 Communication.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 3885,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 3890,
       "exportedPath": "the-business/02-communication.html",
       "dependencies": []
     },
@@ -1499,14 +1479,14 @@
       "dependencies": []
     },
     "The Business/04 The Interview.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 7965,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 7968,
       "exportedPath": "the-business/04-the-interview.html",
       "dependencies": []
     },
     "The Business/05 Taxes, Expense Accounts, and GST.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 7626,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 7627,
       "exportedPath": "the-business/05-taxes,-expense-accounts,-and-gst.html",
       "dependencies": []
     },
@@ -1517,8 +1497,8 @@
       "dependencies": []
     },
     "The Business/07 Scholarships.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 6808,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 6810,
       "exportedPath": "the-business/07-scholarships.html",
       "dependencies": []
     },
@@ -1559,8 +1539,8 @@
       "dependencies": []
     },
     "The Business/14 Equipment for the Court Reporter.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 11044,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 11045,
       "exportedPath": "the-business/14-equipment-for-the-court-reporter.html",
       "dependencies": [
         "lib/media/device-connection-order.svg"
@@ -1591,8 +1571,8 @@
       "dependencies": []
     },
     "The Business/19 Certificate of Non-Appearance (CNA).md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 497,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 498,
       "exportedPath": "the-business/19-certificate-of-non-appearance-(cna).html",
       "dependencies": []
     },
@@ -1603,8 +1583,8 @@
       "dependencies": []
     },
     "The Business/21 Quasi-Judicial Hearings.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 4162,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 4163,
       "exportedPath": "the-business/21-quasi-judicial-hearings.html",
       "dependencies": []
     },
@@ -1615,62 +1595,62 @@
       "dependencies": []
     },
     "Transcript Production/01 Keyboard Navigation.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1182,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1183,
       "exportedPath": "transcript-production/01-keyboard-navigation.html",
       "dependencies": []
     },
     "Transcript Production/02 CaseCAT File Structure.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1561,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1562,
       "exportedPath": "transcript-production/02-casecat-file-structure.html",
       "dependencies": []
     },
     "Transcript Production/03 Your Editing Environment.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 51,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 52,
       "exportedPath": "transcript-production/03-your-editing-environment.html",
       "dependencies": []
     },
     "Transcript Production/04 Hidden Text.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 39,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 40,
       "exportedPath": "transcript-production/04-hidden-text.html",
       "dependencies": []
     },
     "Transcript Production/05 Extended Characters.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 46,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 47,
       "exportedPath": "transcript-production/05-extended-characters.html",
       "dependencies": []
     },
     "Transcript Production/06 Globals.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 35,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 36,
       "exportedPath": "transcript-production/06-globals.html",
       "dependencies": []
     },
     "Transcript Production/07 Keyboard Maps.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 41,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 42,
       "exportedPath": "transcript-production/07-keyboard-maps.html",
       "dependencies": []
     },
     "Transcript Production/08 Macros and AccelerWriters.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 52,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 53,
       "exportedPath": "transcript-production/08-macros-and-accelerwriters.html",
       "dependencies": []
     },
     "Transcript Production/09 Break, Merge, Append.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 47,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 48,
       "exportedPath": "transcript-production/09-break,-merge,-append.html",
       "dependencies": []
     },
     "Transcript Production/10 Auto Indexing.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 40,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 41,
       "exportedPath": "transcript-production/10-auto-indexing.html",
       "dependencies": []
     },
@@ -1681,8 +1661,8 @@
       "dependencies": []
     },
     "Transcript Production/12 EZ Text.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 34,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 35,
       "exportedPath": "transcript-production/12-ez-text.html",
       "dependencies": []
     },
@@ -1693,20 +1673,20 @@
       "dependencies": []
     },
     "Transcript Production/14 Interpreter Style Guide.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1294,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1295,
       "exportedPath": "transcript-production/14-interpreter-style-guide.html",
       "dependencies": []
     },
     "Transcript Production/15 Convoluted & Colloquial Language.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1792,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1793,
       "exportedPath": "transcript-production/15-convoluted-&-colloquial-language.html",
       "dependencies": []
     },
     "Transcript Production/16 Multiparty Actions.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 3613,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 3615,
       "exportedPath": "transcript-production/16-multiparty-actions.html",
       "dependencies": []
     },
@@ -1717,14 +1697,14 @@
       "dependencies": []
     },
     "Transcript Production/18 UTF Finishing Steps.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1052,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1053,
       "exportedPath": "transcript-production/18-utf-finishing-steps.html",
       "dependencies": []
     },
     "Transcript Production/19 Proofreading Tips.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 2033,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 2034,
       "exportedPath": "transcript-production/19-proofreading-tips.html",
       "dependencies": []
     },
@@ -1741,8 +1721,8 @@
       "dependencies": []
     },
     "Writing Realtime/01 Introduction to Captioning and CART.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 3368,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 3369,
       "exportedPath": "writing-realtime/01-introduction-to-captioning-and-cart.html",
       "dependencies": []
     },
@@ -1753,56 +1733,56 @@
       "dependencies": []
     },
     "Writing Realtime/03 Translate Options.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 5836,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 5837,
       "exportedPath": "writing-realtime/03-translate-options.html",
       "dependencies": []
     },
     "Writing Realtime/04 Advanced Translate Options.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1778,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1779,
       "exportedPath": "writing-realtime/04-advanced-translate-options.html",
       "dependencies": []
     },
     "Writing Realtime/05 Fingerspelling.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1909,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 1910,
       "exportedPath": "writing-realtime/05-fingerspelling.html",
       "dependencies": []
     },
     "Writing Realtime/06 Power Defines.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 4638,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 4639,
       "exportedPath": "writing-realtime/06-power-defines.html",
       "dependencies": []
     },
     "Writing Realtime/07 Remote Realtime Reporting.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 4284,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 4285,
       "exportedPath": "writing-realtime/07-remote-realtime-reporting.html",
       "dependencies": []
     },
     "Writing Realtime/08 Brief It! and Live Suggestions.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 11993,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 11994,
       "exportedPath": "writing-realtime/08-brief-it!-and-live-suggestions.html",
       "dependencies": []
     },
     "Writing Realtime/09 Phonetic Translation.md": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 2325,
       "exportedPath": "writing-realtime/09-phonetic-translation.html",
       "dependencies": []
     },
     "Writing Realtime/10 Websites and Email Addresses.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 370,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 371,
       "exportedPath": "writing-realtime/10-websites-and-email-addresses.html",
       "dependencies": []
     },
     "Writing Realtime/11 RealTeam.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 2851,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 2852,
       "exportedPath": "writing-realtime/11-realteam.html",
       "dependencies": []
     },
@@ -1813,13 +1793,13 @@
       "dependencies": []
     },
     "Writing Realtime/13 CART Captioning.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 3164,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 3166,
       "exportedPath": "writing-realtime/13-cart-captioning.html",
       "dependencies": []
     },
     "Writing Realtime/14 Broadcast Captioning.md": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 4723,
       "exportedPath": "writing-realtime/14-broadcast-captioning.html",
       "dependencies": []
@@ -1837,163 +1817,163 @@
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 1533,
+      "modifiedTime": 1732428130394,
+      "sourceSize": 2685,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/media/criminal-off-classifs.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 56671,
       "exportedPath": "lib/media/criminal-off-classifs.svg",
       "dependencies": []
     },
     "lib/media/proc-escalation.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 64505,
       "exportedPath": "lib/media/proc-escalation.svg",
       "dependencies": []
     },
     "lib/media/court-system.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 69029,
       "exportedPath": "lib/media/court-system.svg",
       "dependencies": []
     },
     "lib/media/alberta-court-system.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 61957,
       "exportedPath": "lib/media/alberta-court-system.svg",
       "dependencies": []
     },
     "lib/media/guilty-plea.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 57478,
       "exportedPath": "lib/media/guilty-plea.svg",
       "dependencies": []
     },
     "lib/media/challenge-cause.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 53543,
       "exportedPath": "lib/media/challenge-cause.svg",
       "dependencies": []
     },
     "lib/media/civil-procedure.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 75744,
       "exportedPath": "lib/media/civil-procedure.svg",
       "dependencies": []
     },
     "lib/media/prelim.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 59596,
       "exportedPath": "lib/media/prelim.svg",
       "dependencies": []
     },
     "lib/media/pres-testimony.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 52780,
       "exportedPath": "lib/media/pres-testimony.svg",
       "dependencies": []
     },
     "lib/media/trial.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 65008,
       "exportedPath": "lib/media/trial.svg",
       "dependencies": []
     },
     "lib/media/law-categories.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 64211,
       "exportedPath": "lib/media/law-categories.svg",
       "dependencies": []
     },
     "lib/media/abdpel-quadrants.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 488198,
       "exportedPath": "lib/media/abdpel-quadrants.svg",
       "dependencies": []
     },
     "lib/media/abdpel-regions.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 495952,
       "exportedPath": "lib/media/abdpel-regions.svg",
       "dependencies": []
     },
     "lib/media/anatomical-position-male-female.png": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 23658,
       "exportedPath": "lib/media/anatomical-position-male-female.png",
       "dependencies": []
     },
     "lib/media/frontal-plane.png": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 45072,
       "exportedPath": "lib/media/frontal-plane.png",
       "dependencies": []
     },
     "lib/media/sagittal-plane.png": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 42344,
       "exportedPath": "lib/media/sagittal-plane.png",
       "dependencies": []
     },
     "lib/media/transverse-plane.png": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 38273,
       "exportedPath": "lib/media/transverse-plane.png",
       "dependencies": []
     },
     "lib/media/heart-systole.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 169959,
       "exportedPath": "lib/media/heart-systole.svg",
       "dependencies": []
     },
     "lib/media/heart-diastole.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 171297,
       "exportedPath": "lib/media/heart-diastole.svg",
       "dependencies": []
     },
     "lib/media/pregnancy.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 197018,
       "exportedPath": "lib/media/pregnancy.svg",
       "dependencies": []
     },
     "lib/media/skeleton.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 258787,
       "exportedPath": "lib/media/skeleton.svg",
       "dependencies": []
     },
     "lib/media/bones-cranial.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 398132,
       "exportedPath": "lib/media/bones-cranial.svg",
       "dependencies": []
     },
     "lib/media/bones-facial.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 252963,
       "exportedPath": "lib/media/bones-facial.svg",
       "dependencies": []
     },
     "lib/media/bones-upper.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 168333,
       "exportedPath": "lib/media/bones-upper.svg",
       "dependencies": []
     },
     "lib/media/bones-lower.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 143459,
       "exportedPath": "lib/media/bones-lower.svg",
       "dependencies": []
     },
     "lib/media/joint.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 322174,
       "exportedPath": "lib/media/joint.svg",
       "dependencies": []
@@ -2029,9 +2009,15 @@
       "dependencies": []
     },
     "lib/media/device-connection-order.svg": {
-      "modifiedTime": 1732419802911,
+      "modifiedTime": 1732428130394,
       "sourceSize": 52294,
       "exportedPath": "lib/media/device-connection-order.svg",
+      "dependencies": []
+    },
+    "FAQ & Resources.md": {
+      "modifiedTime": 1732428130394,
+      "sourceSize": 8306,
+      "exportedPath": "faq-&-resources.html",
       "dependencies": []
     }
   }
