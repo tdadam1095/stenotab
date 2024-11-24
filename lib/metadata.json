@@ -1,58 +1,11 @@
 {
   "vaultName": "StenoTab",
-  "lastExport": 1732428130394,
+  "lastExport": 1732428779308,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Assets/Fonts/Kalam-Bold.otf",
-    "Assets/Fonts/Kalam-Light.otf",
-    "Assets/Fonts/Kalam-Regular.otf",
-    "Assets/Fonts/Kalam-Variable.ttf",
-    "Assets/Images/abd-quadrants.png",
-    "Assets/Images/abd-regions.png",
-    "Assets/Images/anatomical-position-male-female.png",
-    "Assets/Images/axial-appendicular-skeletons.png",
-    "Assets/Images/frontal-plane.png",
-    "Assets/Images/heart-phases-diastole.png",
-    "Assets/Images/heart-phases-systole.png",
-    "Assets/Images/leg_bones.png",
-    "Assets/Images/placenta.png",
-    "Assets/Images/radius-ulna-location.png",
-    "Assets/Images/sagittal-plane.png",
-    "Assets/Images/skull-anterior-multicolor.jpg",
-    "Assets/Images/skull-lateral-multicolor.jpg",
-    "Assets/Images/synovial-joint.png",
-    "Assets/Images/transverse-plane.png",
-    "Assets/Law SVG/alberta-court-system.svg",
-    "Assets/Law SVG/challenge-cause.svg",
-    "Assets/Law SVG/civil-procedure.svg",
-    "Assets/Law SVG/court-system.svg",
-    "Assets/Law SVG/criminal-off-classifs.svg",
-    "Assets/Law SVG/guilty-plea.svg",
-    "Assets/Law SVG/law-categories.svg",
-    "Assets/Law SVG/prelim.svg",
-    "Assets/Law SVG/pres-testimony.svg",
-    "Assets/Law SVG/proc-escalation.svg",
-    "Assets/Law SVG/trial.svg",
-    "Assets/Medical SVG/abdpel-quadrants.svg",
-    "Assets/Medical SVG/abdpel-regions.svg",
-    "Assets/Medical SVG/bones-cranial.svg",
-    "Assets/Medical SVG/bones-facial.svg",
-    "Assets/Medical SVG/bones-lower.svg",
-    "Assets/Medical SVG/bones-upper.svg",
-    "Assets/Medical SVG/heart-diastole.svg",
-    "Assets/Medical SVG/heart-systole.svg",
-    "Assets/Medical SVG/joint.svg",
-    "Assets/Medical SVG/pregnancy.svg",
-    "Assets/Medical SVG/skeleton.svg",
-    "Assets/Theory SVG/Double Final Characters.svg",
-    "Assets/Theory SVG/Double Initial Characters.svg",
-    "Assets/Theory SVG/Punctuation.svg",
-    "Assets/Theory SVG/Single Characters.svg",
-    "Assets/Theory SVG/Vowels Diphthongs.svg",
-    "Assets/Device Connection Order.svg",
     "English/Capitalization.md",
     "English/Cheat Sheet.md",
     "English/Commas.md",
@@ -71,35 +24,6 @@
     "English/Semicolons & Colons.md",
     "English/Verbals.md",
     "English/Yes & No Responses.md",
-    "Excalidraw/Computer Stuff/Device Connection Order.md",
-    "Excalidraw/Law Excal Files/alberta-court-system.md",
-    "Excalidraw/Law Excal Files/challenge-cause.md",
-    "Excalidraw/Law Excal Files/civil-procedure.md",
-    "Excalidraw/Law Excal Files/court-system.md",
-    "Excalidraw/Law Excal Files/criminal-off-classifs.md",
-    "Excalidraw/Law Excal Files/guilty-plea.md",
-    "Excalidraw/Law Excal Files/law-categories.md",
-    "Excalidraw/Law Excal Files/prelim.md",
-    "Excalidraw/Law Excal Files/pres-testimony.md",
-    "Excalidraw/Law Excal Files/proc-escalation.md",
-    "Excalidraw/Law Excal Files/trial.md",
-    "Excalidraw/Medical Excal Files/abdpel-quadrants.md",
-    "Excalidraw/Medical Excal Files/abdpel-regions.md",
-    "Excalidraw/Medical Excal Files/bones-cranial.md",
-    "Excalidraw/Medical Excal Files/bones-facial.md",
-    "Excalidraw/Medical Excal Files/bones-lower.md",
-    "Excalidraw/Medical Excal Files/bones-upper.md",
-    "Excalidraw/Medical Excal Files/heart-diastole.md",
-    "Excalidraw/Medical Excal Files/heart-systole.md",
-    "Excalidraw/Medical Excal Files/joint.md",
-    "Excalidraw/Medical Excal Files/pregnancy.md",
-    "Excalidraw/Medical Excal Files/skeleton.md",
-    "Excalidraw/Theory Excal Files/Double Final Characters.md",
-    "Excalidraw/Theory Excal Files/Double Initial Characters.md",
-    "Excalidraw/Theory Excal Files/Keyboard Template.md",
-    "Excalidraw/Theory Excal Files/Punctuation.md",
-    "Excalidraw/Theory Excal Files/Single Characters.md",
-    "Excalidraw/Theory Excal Files/Vowels Diphthongs.md",
     "Judicial System/Actus Reus.md",
     "Judicial System/Citations.md",
     "Judicial System/Civil Trial Procedure.md",
@@ -229,6 +153,28 @@
     "Writing Realtime/16 Realtime Applications.md",
     "FAQ & Resources.md",
     "Index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css",
     "lib/media/criminal-off-classifs.svg",
     "lib/media/proc-escalation.svg",
     "lib/media/court-system.svg",
@@ -255,34 +201,12 @@
     "lib/media/bones-upper.svg",
     "lib/media/bones-lower.svg",
     "lib/media/joint.svg",
-    "lib/media/device-connection-order.svg",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/snippets.css",
     "lib/media/single-characters.svg",
     "lib/media/double-initial-characters.svg",
     "lib/media/double-final-characters.svg",
     "lib/media/punctuation.svg",
-    "lib/media/vowels-diphthongs.svg"
+    "lib/media/vowels-diphthongs.svg",
+    "lib/media/device-connection-order.svg"
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -310,417 +234,135 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1732428130394,
-      "sourceSize": 90471,
+      "modifiedTime": 1732428779308,
+      "sourceSize": 55851,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 312,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1732428130394,
+      "modifiedTime": 1732428779308,
       "sourceSize": 85360,
       "exportedPath": "lib/styles/snippets.css",
-      "dependencies": []
-    },
-    "Assets/Fonts/Kalam-Bold.otf": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 27288,
-      "exportedPath": "assets/fonts/kalam-bold.otf",
-      "dependencies": []
-    },
-    "Assets/Fonts/Kalam-Light.otf": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 27652,
-      "exportedPath": "assets/fonts/kalam-light.otf",
-      "dependencies": []
-    },
-    "Assets/Fonts/Kalam-Regular.otf": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 31628,
-      "exportedPath": "assets/fonts/kalam-regular.otf",
-      "dependencies": []
-    },
-    "Assets/Fonts/Kalam-Variable.ttf": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 0,
-      "exportedPath": "assets/fonts/kalam-variable.ttf",
-      "dependencies": []
-    },
-    "Assets/Images/abd-quadrants.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 327788,
-      "exportedPath": "assets/images/abd-quadrants.png",
-      "dependencies": []
-    },
-    "Assets/Images/abd-regions.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 328239,
-      "exportedPath": "assets/images/abd-regions.png",
-      "dependencies": []
-    },
-    "Assets/Images/anatomical-position-male-female.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 23658,
-      "exportedPath": "assets/images/anatomical-position-male-female.png",
-      "dependencies": []
-    },
-    "Assets/Images/axial-appendicular-skeletons.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 145706,
-      "exportedPath": "assets/images/axial-appendicular-skeletons.png",
-      "dependencies": []
-    },
-    "Assets/Images/frontal-plane.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 45072,
-      "exportedPath": "assets/images/frontal-plane.png",
-      "dependencies": []
-    },
-    "Assets/Images/heart-phases-diastole.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 58284,
-      "exportedPath": "assets/images/heart-phases-diastole.png",
-      "dependencies": []
-    },
-    "Assets/Images/heart-phases-systole.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 57460,
-      "exportedPath": "assets/images/heart-phases-systole.png",
-      "dependencies": []
-    },
-    "Assets/Images/leg_bones.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 52620,
-      "exportedPath": "assets/images/leg_bones.png",
-      "dependencies": []
-    },
-    "Assets/Images/placenta.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 105932,
-      "exportedPath": "assets/images/placenta.png",
-      "dependencies": []
-    },
-    "Assets/Images/radius-ulna-location.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 76791,
-      "exportedPath": "assets/images/radius-ulna-location.png",
-      "dependencies": []
-    },
-    "Assets/Images/sagittal-plane.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 42344,
-      "exportedPath": "assets/images/sagittal-plane.png",
-      "dependencies": []
-    },
-    "Assets/Images/skull-anterior-multicolor.jpg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 149603,
-      "exportedPath": "assets/images/skull-anterior-multicolor.jpg",
-      "dependencies": []
-    },
-    "Assets/Images/skull-lateral-multicolor.jpg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 146522,
-      "exportedPath": "assets/images/skull-lateral-multicolor.jpg",
-      "dependencies": []
-    },
-    "Assets/Images/synovial-joint.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 203372,
-      "exportedPath": "assets/images/synovial-joint.png",
-      "dependencies": []
-    },
-    "Assets/Images/transverse-plane.png": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 38273,
-      "exportedPath": "assets/images/transverse-plane.png",
-      "dependencies": []
-    },
-    "Assets/Law SVG/alberta-court-system.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 61957,
-      "exportedPath": "assets/law-svg/alberta-court-system.svg",
-      "dependencies": []
-    },
-    "Assets/Law SVG/challenge-cause.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 53543,
-      "exportedPath": "assets/law-svg/challenge-cause.svg",
-      "dependencies": []
-    },
-    "Assets/Law SVG/civil-procedure.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 75744,
-      "exportedPath": "assets/law-svg/civil-procedure.svg",
-      "dependencies": []
-    },
-    "Assets/Law SVG/court-system.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 69029,
-      "exportedPath": "assets/law-svg/court-system.svg",
-      "dependencies": []
-    },
-    "Assets/Law SVG/criminal-off-classifs.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 56671,
-      "exportedPath": "assets/law-svg/criminal-off-classifs.svg",
-      "dependencies": []
-    },
-    "Assets/Law SVG/guilty-plea.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 57478,
-      "exportedPath": "assets/law-svg/guilty-plea.svg",
-      "dependencies": []
-    },
-    "Assets/Law SVG/law-categories.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 64211,
-      "exportedPath": "assets/law-svg/law-categories.svg",
-      "dependencies": []
-    },
-    "Assets/Law SVG/prelim.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 59596,
-      "exportedPath": "assets/law-svg/prelim.svg",
-      "dependencies": []
-    },
-    "Assets/Law SVG/pres-testimony.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 52780,
-      "exportedPath": "assets/law-svg/pres-testimony.svg",
-      "dependencies": []
-    },
-    "Assets/Law SVG/proc-escalation.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 64505,
-      "exportedPath": "assets/law-svg/proc-escalation.svg",
-      "dependencies": []
-    },
-    "Assets/Law SVG/trial.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 65008,
-      "exportedPath": "assets/law-svg/trial.svg",
-      "dependencies": []
-    },
-    "Assets/Medical SVG/abdpel-quadrants.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 488198,
-      "exportedPath": "assets/medical-svg/abdpel-quadrants.svg",
-      "dependencies": []
-    },
-    "Assets/Medical SVG/abdpel-regions.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 495952,
-      "exportedPath": "assets/medical-svg/abdpel-regions.svg",
-      "dependencies": []
-    },
-    "Assets/Medical SVG/bones-cranial.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 398132,
-      "exportedPath": "assets/medical-svg/bones-cranial.svg",
-      "dependencies": []
-    },
-    "Assets/Medical SVG/bones-facial.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 252963,
-      "exportedPath": "assets/medical-svg/bones-facial.svg",
-      "dependencies": []
-    },
-    "Assets/Medical SVG/bones-lower.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 143459,
-      "exportedPath": "assets/medical-svg/bones-lower.svg",
-      "dependencies": []
-    },
-    "Assets/Medical SVG/bones-upper.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 168333,
-      "exportedPath": "assets/medical-svg/bones-upper.svg",
-      "dependencies": []
-    },
-    "Assets/Medical SVG/heart-diastole.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 171297,
-      "exportedPath": "assets/medical-svg/heart-diastole.svg",
-      "dependencies": []
-    },
-    "Assets/Medical SVG/heart-systole.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 169959,
-      "exportedPath": "assets/medical-svg/heart-systole.svg",
-      "dependencies": []
-    },
-    "Assets/Medical SVG/joint.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 322174,
-      "exportedPath": "assets/medical-svg/joint.svg",
-      "dependencies": []
-    },
-    "Assets/Medical SVG/pregnancy.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 197018,
-      "exportedPath": "assets/medical-svg/pregnancy.svg",
-      "dependencies": []
-    },
-    "Assets/Medical SVG/skeleton.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 258787,
-      "exportedPath": "assets/medical-svg/skeleton.svg",
-      "dependencies": []
-    },
-    "Assets/Theory SVG/Double Final Characters.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 174926,
-      "exportedPath": "assets/theory-svg/double-final-characters.svg",
-      "dependencies": []
-    },
-    "Assets/Theory SVG/Double Initial Characters.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 351311,
-      "exportedPath": "assets/theory-svg/double-initial-characters.svg",
-      "dependencies": []
-    },
-    "Assets/Theory SVG/Punctuation.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 424280,
-      "exportedPath": "assets/theory-svg/punctuation.svg",
-      "dependencies": []
-    },
-    "Assets/Theory SVG/Single Characters.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 69556,
-      "exportedPath": "assets/theory-svg/single-characters.svg",
-      "dependencies": []
-    },
-    "Assets/Theory SVG/Vowels Diphthongs.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 263199,
-      "exportedPath": "assets/theory-svg/vowels-diphthongs.svg",
-      "dependencies": []
-    },
-    "Assets/Device Connection Order.svg": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 52294,
-      "exportedPath": "assets/device-connection-order.svg",
       "dependencies": []
     },
     "English/Capitalization.md": {
@@ -829,180 +471,6 @@
       "modifiedTime": 1732419802911,
       "sourceSize": 20,
       "exportedPath": "english/yes-&-no-responses.html",
-      "dependencies": []
-    },
-    "Excalidraw/Computer Stuff/Device Connection Order.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 7542,
-      "exportedPath": "excalidraw/computer-stuff/device-connection-order.html",
-      "dependencies": []
-    },
-    "Excalidraw/Law Excal Files/alberta-court-system.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 10404,
-      "exportedPath": "excalidraw/law-excal-files/alberta-court-system.html",
-      "dependencies": []
-    },
-    "Excalidraw/Law Excal Files/challenge-cause.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 8773,
-      "exportedPath": "excalidraw/law-excal-files/challenge-cause.html",
-      "dependencies": []
-    },
-    "Excalidraw/Law Excal Files/civil-procedure.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 20862,
-      "exportedPath": "excalidraw/law-excal-files/civil-procedure.html",
-      "dependencies": []
-    },
-    "Excalidraw/Law Excal Files/court-system.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 16082,
-      "exportedPath": "excalidraw/law-excal-files/court-system.html",
-      "dependencies": []
-    },
-    "Excalidraw/Law Excal Files/criminal-off-classifs.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 12682,
-      "exportedPath": "excalidraw/law-excal-files/criminal-off-classifs.html",
-      "dependencies": []
-    },
-    "Excalidraw/Law Excal Files/guilty-plea.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 12419,
-      "exportedPath": "excalidraw/law-excal-files/guilty-plea.html",
-      "dependencies": []
-    },
-    "Excalidraw/Law Excal Files/law-categories.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 12548,
-      "exportedPath": "excalidraw/law-excal-files/law-categories.html",
-      "dependencies": []
-    },
-    "Excalidraw/Law Excal Files/prelim.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 14357,
-      "exportedPath": "excalidraw/law-excal-files/prelim.html",
-      "dependencies": []
-    },
-    "Excalidraw/Law Excal Files/pres-testimony.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 10742,
-      "exportedPath": "excalidraw/law-excal-files/pres-testimony.html",
-      "dependencies": []
-    },
-    "Excalidraw/Law Excal Files/proc-escalation.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 15463,
-      "exportedPath": "excalidraw/law-excal-files/proc-escalation.html",
-      "dependencies": []
-    },
-    "Excalidraw/Law Excal Files/trial.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 17250,
-      "exportedPath": "excalidraw/law-excal-files/trial.html",
-      "dependencies": []
-    },
-    "Excalidraw/Medical Excal Files/abdpel-quadrants.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 6227,
-      "exportedPath": "excalidraw/medical-excal-files/abdpel-quadrants.html",
-      "dependencies": []
-    },
-    "Excalidraw/Medical Excal Files/abdpel-regions.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 10313,
-      "exportedPath": "excalidraw/medical-excal-files/abdpel-regions.html",
-      "dependencies": []
-    },
-    "Excalidraw/Medical Excal Files/bones-cranial.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 6413,
-      "exportedPath": "excalidraw/medical-excal-files/bones-cranial.html",
-      "dependencies": []
-    },
-    "Excalidraw/Medical Excal Files/bones-facial.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 10919,
-      "exportedPath": "excalidraw/medical-excal-files/bones-facial.html",
-      "dependencies": []
-    },
-    "Excalidraw/Medical Excal Files/bones-lower.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 17591,
-      "exportedPath": "excalidraw/medical-excal-files/bones-lower.html",
-      "dependencies": []
-    },
-    "Excalidraw/Medical Excal Files/bones-upper.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 14241,
-      "exportedPath": "excalidraw/medical-excal-files/bones-upper.html",
-      "dependencies": []
-    },
-    "Excalidraw/Medical Excal Files/heart-diastole.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 20372,
-      "exportedPath": "excalidraw/medical-excal-files/heart-diastole.html",
-      "dependencies": []
-    },
-    "Excalidraw/Medical Excal Files/heart-systole.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 20242,
-      "exportedPath": "excalidraw/medical-excal-files/heart-systole.html",
-      "dependencies": []
-    },
-    "Excalidraw/Medical Excal Files/joint.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 7097,
-      "exportedPath": "excalidraw/medical-excal-files/joint.html",
-      "dependencies": []
-    },
-    "Excalidraw/Medical Excal Files/pregnancy.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 7808,
-      "exportedPath": "excalidraw/medical-excal-files/pregnancy.html",
-      "dependencies": []
-    },
-    "Excalidraw/Medical Excal Files/skeleton.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 18300,
-      "exportedPath": "excalidraw/medical-excal-files/skeleton.html",
-      "dependencies": []
-    },
-    "Excalidraw/Theory Excal Files/Double Final Characters.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 31911,
-      "exportedPath": "excalidraw/theory-excal-files/double-final-characters.html",
-      "dependencies": []
-    },
-    "Excalidraw/Theory Excal Files/Double Initial Characters.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 60408,
-      "exportedPath": "excalidraw/theory-excal-files/double-initial-characters.html",
-      "dependencies": []
-    },
-    "Excalidraw/Theory Excal Files/Keyboard Template.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 6942,
-      "exportedPath": "excalidraw/theory-excal-files/keyboard-template.html",
-      "dependencies": []
-    },
-    "Excalidraw/Theory Excal Files/Punctuation.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 80721,
-      "exportedPath": "excalidraw/theory-excal-files/punctuation.html",
-      "dependencies": []
-    },
-    "Excalidraw/Theory Excal Files/Single Characters.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 14472,
-      "exportedPath": "excalidraw/theory-excal-files/single-characters.html",
-      "dependencies": []
-    },
-    "Excalidraw/Theory Excal Files/Vowels Diphthongs.md": {
-      "modifiedTime": 1732419802911,
-      "sourceSize": 46919,
-      "exportedPath": "excalidraw/theory-excal-files/vowels-diphthongs.html",
       "dependencies": []
     },
     "Judicial System/Actus Reus.md": {
@@ -1817,8 +1285,8 @@
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1732428130394,
-      "sourceSize": 2685,
+      "modifiedTime": 1732428779308,
+      "sourceSize": 2170,
       "exportedPath": "index.html",
       "dependencies": []
     },
