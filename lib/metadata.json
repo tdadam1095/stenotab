@@ -1,6 +1,6 @@
 {
   "vaultName": "StenoTab",
-  "lastExport": 1732477957954,
+  "lastExport": 1732478168500,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager show-ribbon theme-light",
   "useCustomHeadContent": false,
@@ -153,32 +153,6 @@
     "6 The Business/21 Quasi-Judicial Hearings.md",
     "Index.md",
     "Resources.md",
-    "lib/media/abdpel-quadrants.png",
-    "lib/media/abdpel-regions.png",
-    "lib/media/anatomical-position-male-female.png",
-    "lib/media/frontal-plane.png",
-    "lib/media/sagittal-plane.png",
-    "lib/media/transverse-plane.png",
-    "lib/media/skeleton.png",
-    "lib/media/bones-cranial.png",
-    "lib/media/bones-facial.png",
-    "lib/media/bones-upper.png",
-    "lib/media/bones-lower.png",
-    "lib/media/joint.png",
-    "lib/media/heart-systole.png",
-    "lib/media/heart-diastole.png",
-    "lib/media/pregnancy.png",
-    "lib/media/law-categories.png",
-    "lib/media/court-system.png",
-    "lib/media/alberta-court-system.png",
-    "lib/media/criminal-off-classifs.png",
-    "lib/media/proc-escalation.png",
-    "lib/media/guilty-plea.png",
-    "lib/media/pres-testimony.png",
-    "lib/media/prelim.png",
-    "lib/media/trial.png",
-    "lib/media/challenge-cause.png",
-    "lib/media/civil-procedure.png",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -206,28 +180,32 @@
     "lib/media/double-final-characters.svg",
     "lib/media/vowels-diphthongs.svg",
     "lib/media/punctuation.svg",
-    "lib/media/abdpel-quadrants.svg",
-    "lib/media/abdpel-regions.svg",
-    "lib/media/skeleton.svg",
-    "lib/media/bones-cranial.svg",
-    "lib/media/bones-facial.svg",
-    "lib/media/bones-upper.svg",
-    "lib/media/bones-lower.svg",
-    "lib/media/joint.svg",
-    "lib/media/heart-systole.svg",
-    "lib/media/heart-diastole.svg",
-    "lib/media/pregnancy.svg",
-    "lib/media/law-categories.svg",
-    "lib/media/court-system.svg",
-    "lib/media/alberta-court-system.svg",
-    "lib/media/criminal-off-classifs.svg",
-    "lib/media/proc-escalation.svg",
-    "lib/media/guilty-plea.svg",
-    "lib/media/pres-testimony.svg",
-    "lib/media/prelim.svg",
-    "lib/media/trial.svg",
-    "lib/media/challenge-cause.svg",
-    "lib/media/civil-procedure.svg",
+    "lib/media/abdpel-quadrants.png",
+    "lib/media/abdpel-regions.png",
+    "lib/media/anatomical-position-male-female.png",
+    "lib/media/frontal-plane.png",
+    "lib/media/sagittal-plane.png",
+    "lib/media/transverse-plane.png",
+    "lib/media/skeleton.png",
+    "lib/media/bones-cranial.png",
+    "lib/media/bones-facial.png",
+    "lib/media/bones-upper.png",
+    "lib/media/bones-lower.png",
+    "lib/media/joint.png",
+    "lib/media/heart-systole.png",
+    "lib/media/heart-diastole.png",
+    "lib/media/pregnancy.png",
+    "lib/media/law-categories.png",
+    "lib/media/court-system.png",
+    "lib/media/alberta-court-system.png",
+    "lib/media/criminal-off-classifs.png",
+    "lib/media/proc-escalation.png",
+    "lib/media/guilty-plea.png",
+    "lib/media/pres-testimony.png",
+    "lib/media/prelim.png",
+    "lib/media/trial.png",
+    "lib/media/challenge-cause.png",
+    "lib/media/civil-procedure.png",
     "lib/media/device-connection-order.svg"
   ],
   "mainDependencies": [
@@ -1216,18 +1194,6 @@
       "exportedPath": "lib/media/punctuation.svg",
       "dependencies": []
     },
-    "lib/media/abdpel-quadrants.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 488198,
-      "exportedPath": "lib/media/abdpel-quadrants.svg",
-      "dependencies": []
-    },
-    "lib/media/abdpel-regions.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 495952,
-      "exportedPath": "lib/media/abdpel-regions.svg",
-      "dependencies": []
-    },
     "lib/media/anatomical-position-male-female.png": {
       "modifiedTime": 1732477957954,
       "sourceSize": 23658,
@@ -1252,126 +1218,6 @@
       "exportedPath": "lib/media/transverse-plane.png",
       "dependencies": []
     },
-    "lib/media/skeleton.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 258787,
-      "exportedPath": "lib/media/skeleton.svg",
-      "dependencies": []
-    },
-    "lib/media/bones-cranial.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 398132,
-      "exportedPath": "lib/media/bones-cranial.svg",
-      "dependencies": []
-    },
-    "lib/media/bones-facial.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 252963,
-      "exportedPath": "lib/media/bones-facial.svg",
-      "dependencies": []
-    },
-    "lib/media/bones-upper.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 168333,
-      "exportedPath": "lib/media/bones-upper.svg",
-      "dependencies": []
-    },
-    "lib/media/bones-lower.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 143459,
-      "exportedPath": "lib/media/bones-lower.svg",
-      "dependencies": []
-    },
-    "lib/media/joint.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 322174,
-      "exportedPath": "lib/media/joint.svg",
-      "dependencies": []
-    },
-    "lib/media/heart-systole.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 169959,
-      "exportedPath": "lib/media/heart-systole.svg",
-      "dependencies": []
-    },
-    "lib/media/heart-diastole.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 171297,
-      "exportedPath": "lib/media/heart-diastole.svg",
-      "dependencies": []
-    },
-    "lib/media/pregnancy.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 197018,
-      "exportedPath": "lib/media/pregnancy.svg",
-      "dependencies": []
-    },
-    "lib/media/law-categories.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 64211,
-      "exportedPath": "lib/media/law-categories.svg",
-      "dependencies": []
-    },
-    "lib/media/court-system.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 69029,
-      "exportedPath": "lib/media/court-system.svg",
-      "dependencies": []
-    },
-    "lib/media/alberta-court-system.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 61957,
-      "exportedPath": "lib/media/alberta-court-system.svg",
-      "dependencies": []
-    },
-    "lib/media/criminal-off-classifs.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 56671,
-      "exportedPath": "lib/media/criminal-off-classifs.svg",
-      "dependencies": []
-    },
-    "lib/media/proc-escalation.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 64505,
-      "exportedPath": "lib/media/proc-escalation.svg",
-      "dependencies": []
-    },
-    "lib/media/guilty-plea.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 57478,
-      "exportedPath": "lib/media/guilty-plea.svg",
-      "dependencies": []
-    },
-    "lib/media/pres-testimony.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 52780,
-      "exportedPath": "lib/media/pres-testimony.svg",
-      "dependencies": []
-    },
-    "lib/media/prelim.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 59596,
-      "exportedPath": "lib/media/prelim.svg",
-      "dependencies": []
-    },
-    "lib/media/trial.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 65008,
-      "exportedPath": "lib/media/trial.svg",
-      "dependencies": []
-    },
-    "lib/media/challenge-cause.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 53543,
-      "exportedPath": "lib/media/challenge-cause.svg",
-      "dependencies": []
-    },
-    "lib/media/civil-procedure.svg": {
-      "modifiedTime": 1732436463430,
-      "sourceSize": 75744,
-      "exportedPath": "lib/media/civil-procedure.svg",
-      "dependencies": []
-    },
     "lib/media/device-connection-order.svg": {
       "modifiedTime": 1732436463430,
       "sourceSize": 52294,
@@ -1379,133 +1225,133 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 56505,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 312,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1732477957954,
+      "modifiedTime": 1732478168500,
       "sourceSize": 85349,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
